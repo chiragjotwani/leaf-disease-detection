@@ -1,4 +1,4 @@
-Project Description — Plant Leaf Disease Detection Using Deep Learning
+# Project Description — Plant Leaf Disease Detection Using Deep Learning
 
 Plant diseases pose a serious threat to agricultural productivity and food security, especially in regions where large-scale manual monitoring is difficult. Traditional disease identification relies heavily on expert visual inspection, which is time-consuming, subjective, and impractical for continuous field surveillance. This project addresses that challenge by developing an automated plant leaf disease detection system using deep learning–based image classification. The objective is to design a reliable computer vision pipeline that can accurately identify leaf diseases from images and compare multiple state-of-the-art neural network architectures to determine the most effective model.
 
